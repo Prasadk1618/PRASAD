@@ -10,7 +10,7 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
 * Systems: Linux (Ubuntu, Amazon Linux), Windows Server
 * Others: Git, SSH, Linux, Networking .
 # 🚀 Projects 
-Three Tier Architecture
+* Three Tier Architecture
 Description: Implemented a robust three-tier architecture utilizing AWS. This included deploying 3 EC2 instances across different Availability Zones, establishing 3 subnets within a custom VPC, managing data with RDS, and monitoring with CloudWatch and SNS.
 # 🌱 Currently Learning
 * DevOps Tools: Enhancing skills in automation and orchestration using Ansible, Terraform, and Jenkins.
