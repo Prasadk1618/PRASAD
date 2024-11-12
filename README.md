@@ -1,4 +1,4 @@
-# Hello, I'm Prasad Kale..! 👋
+# Hello, I'm Prasad Kale...! 👋
 I'm an aspiring Cloud and DevOps engineer passionate about building scalable and resilient infrastructures. I excel at automating processes, optimizing cloud deployments, and am continually acquiring new skills to stay ahead in the rapidly evolving tech landscape.
 # 🔧 Technologies & Tools
 * Cloud Platforms: AWS
